@@ -1,3 +1,4 @@
+
 # EX-BLUEBIRD
 
 ## Overview
@@ -108,3 +109,10 @@ This  project is designed to replicate the core functionalities , allowing users
     -   The frontend handles the drag-and-drop functionality and uploads the image to the backend.
     -   The backend processes the image, stores it (possibly in a cloud storage service), and returns the image URL.
     -   The URL is included in the tweet data stored in MongoDB and displayed in the UI.
+
+
+**Screenshots**
+![Screenshot 2024-07-19 171600](https://github.com/user-attachments/assets/6469e923-3ab0-458c-9acf-6ce23af98149)
+![Screenshot 2024-07-19 171753](https://github.com/user-attachments/assets/9381fd14-5415-4b7c-9e47-4ec325a6d8e3)
+![Screenshot 2024-07-19 171808](https://github.com/user-attachments/assets/7b811c27-70ff-418d-a898-fbb9b938dc11)
+![Screenshot 2024-07-19 171818](https://github.com/user-attachments/assets/f5999ac0-a700-4b1d-8c97-44fdbc893ab9)
