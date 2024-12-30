@@ -1,9 +1,9 @@
 
-# EX-BLUEBIRD
+# Buzznet
 
 ## Overview
 
-This project is a  social media application built with Next.js, React.js, MongoDB, and TailwindCSS. The application includes features such as OAuth authentication, social sign-in, tweeting, liking, commenting, profile editing, and drag-and-drop image uploads.
+This project is a  social media application built with Next.js, React.js, MongoDB,Prisma and TailwindCSS. The application includes features such as OAuth authentication, social sign-in, tweeting, liking, commenting, profile editing, and drag-and-drop image uploads.
 
 ## Features
 
